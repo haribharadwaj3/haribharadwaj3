@@ -118,3 +118,5 @@
 ## 📫 How to Reach Me
 
 - 📧 **Email:** haribharadwaj6@gmail.com
+- 🌐 **Portfolio:** [Visit My Portfolio](https://hari-bharadwaj.vercel.app/)
+
